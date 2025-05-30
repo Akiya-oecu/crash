@@ -495,7 +495,6 @@ GameObject:
   - component: {fileID: 610220247}
   - component: {fileID: 610220246}
   - component: {fileID: 610220245}
-  - component: {fileID: 610220244}
   m_Layer: 0
   m_Name: Cube
   m_TagString: jama
@@ -503,22 +502,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &610220244
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 610220243}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: cdfbde9b398744e969b01c67888babe2, type: 2}
 --- !u!114 &610220245
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1444,6 +1427,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 183614147136167492, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1238041511109937994, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1
@@ -1466,6 +1453,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1392008744481889890, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1631659091918597295, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_IsKinematic
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2815535653323649559, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
@@ -1499,6 +1490,14 @@ PrefabInstance:
     - target: {fileID: 3195614474614466733, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4316041622239371438, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4316041622239371438, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4316041622239371443, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_RootOrder
@@ -1558,6 +1557,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5857366092364926418, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7663437231962370219, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7851588835583504090, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
