@@ -4993,7 +4993,7 @@ MonoBehaviour:
       integerValue: 2
       vector2Value: {x: 0, y: 0}
       vector3Value: {x: 0, y: 0, z: 0}
-  - target: 0
+  - target: 3
     specifiedTargetItem: {fileID: 0}
     key: Destroy
     type: 0
