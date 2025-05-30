@@ -1459,6 +1459,22 @@ PrefabInstance:
       propertyPath: m_IsKinematic
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1752502476375076792, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1752502476375076792, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1752502476375076792, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1752502476375076792, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2815535653323649559, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -1491,6 +1507,18 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4316041621671837690, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.030394554
+      objectReference: {fileID: 0}
+    - target: {fileID: 4316041621671837690, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.050745517
+      objectReference: {fileID: 0}
+    - target: {fileID: 4316041621671837690, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.5721854
+      objectReference: {fileID: 0}
     - target: {fileID: 4316041622239371438, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_UseGravity
       value: 0
@@ -1505,7 +1533,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4316041622239371443, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.15
+      value: 10.202
       objectReference: {fileID: 0}
     - target: {fileID: 4316041622239371443, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1546,6 +1574,10 @@ PrefabInstance:
     - target: {fileID: 4316041622239371444, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_Name
       value: SimpleHandGun
+      objectReference: {fileID: 0}
+    - target: {fileID: 4316041622278042049, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.10167694
       objectReference: {fileID: 0}
     - target: {fileID: 5151354334743684517, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
       propertyPath: m_Layer
