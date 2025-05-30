@@ -4845,7 +4845,7 @@ GameObject:
   - component: {fileID: 4402445735300942967}
   m_Layer: 0
   m_Name: WeakChargeBullet
-  m_TagString: Untagged
+  m_TagString: bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
