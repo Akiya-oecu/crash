@@ -2052,6 +2052,25 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!1 &1087494052 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -231537852577957333, guid: a2e1142a7f0004cdbaebe8207ad1a994, type: 3}
+  m_PrefabInstance: {fileID: 1500003730}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1087494056
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1087494052}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8670151273213183110, guid: a2e1142a7f0004cdbaebe8207ad1a994, type: 3}
 --- !u!1 &1087972291 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3852191393956342742, guid: 79e6ed974a005496e92eb216f41a99e8, type: 3}
