@@ -4214,15 +4214,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8328253877272925333, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -207.26717
+      value: -192.5
       objectReference: {fileID: 0}
     - target: {fileID: 8328253877272925333, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -499.33344
+      value: -498.3
       objectReference: {fileID: 0}
     - target: {fileID: 8328253877272925333, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -74.073746
+      value: -122.81
       objectReference: {fileID: 0}
     - target: {fileID: 8328253877272925333, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5055,87 +5055,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4150002729458029897, guid: 79e6ed974a005496e92eb216f41a99e8, type: 3}
---- !u!1001 &1699956866
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1298523782835250572, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 3226807067649604004, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: triggers.Array.data[0].value.integerValue
-      value: 1000
-      objectReference: {fileID: 0}
-    - target: {fileID: 4251354428401387192, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_PresetInfoIsWorld
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5925569088926404134, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -53.88
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732546, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6026788676742732547, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_Name
-      value: GateAndOpener
-      objectReference: {fileID: 0}
-    - target: {fileID: 6374869540386160189, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_Layer
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 7769056038327564634, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: bd19719725159d4458e50cd632f1fdb0, type: 3}
 --- !u!1001 &1721623110
 PrefabInstance:
   m_ObjectHideFlags: 0
