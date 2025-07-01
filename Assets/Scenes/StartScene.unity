@@ -6598,6 +6598,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: mistake
       objectReference: {fileID: 0}
+    - target: {fileID: 7811126719184217215, guid: 349888a0abdf74f8f9c786a1955f78ee, type: 3}
+      propertyPath: m_Size.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7811126719184217215, guid: 349888a0abdf74f8f9c786a1955f78ee, type: 3}
+      propertyPath: m_Size.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7811126719184217215, guid: 349888a0abdf74f8f9c786a1955f78ee, type: 3}
+      propertyPath: m_Size.z
+      value: 1.2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 349888a0abdf74f8f9c786a1955f78ee, type: 3}
 --- !u!4 &6298315248350611713 stripped
