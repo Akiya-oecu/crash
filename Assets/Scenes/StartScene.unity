@@ -157,7 +157,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3f5540ae1bba74c28b2bd52c11306554, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0
+  m_Volume: 0.7
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3286,6 +3286,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1075363921}
     m_Modifications:
+    - target: {fileID: 420274258623621481, guid: 2954047a366ce415e923446df8bcfd6e, type: 3}
+      propertyPath: m_Volume
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 420274258623621481, guid: 2954047a366ce415e923446df8bcfd6e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 420274258623621481, guid: 2954047a366ce415e923446df8bcfd6e, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 876874567294583617, guid: 2954047a366ce415e923446df8bcfd6e, type: 3}
+      propertyPath: globalGimmickKey.key.key
+      value: Hit
+      objectReference: {fileID: 0}
     - target: {fileID: 4191394326738347658, guid: 2954047a366ce415e923446df8bcfd6e, type: 3}
       propertyPath: m_TagString
       value: Untagged
