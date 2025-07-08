@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5941132987348036367}
   - component: {fileID: 2408165880222385915}
   - component: {fileID: 2396095002678628545}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4842,7 +4842,7 @@ GameObject:
   - component: {fileID: 5191475587956444837}
   - component: {fileID: 4954617953574115177}
   - component: {fileID: 1075704737533343135}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: StrongChargeBullet
   m_TagString: bullet
   m_Icon: {fileID: 0}
@@ -5082,6 +5082,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7505433668568587305}
     m_Modifications:
+    - target: {fileID: 2793379674700726871, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 4861032442964768036, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -5138,9 +5142,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4881427696508881970, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4906124442517537955, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 5205611328032485278, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
       propertyPath: m_Name
       value: DANGAN
+      objectReference: {fileID: 0}
+    - target: {fileID: 5205611328032485278, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e73e9106d597d426bb2ae5f2236240bd, type: 3}
@@ -5226,7 +5242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f355099bde902574e9a756dd9fc33aad, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f355099bde902574e9a756dd9fc33aad, type: 3}

@@ -10413,7 +10413,6 @@ GameObject:
   - component: {fileID: 2882865998482312931}
   - component: {fileID: 4998127403609367903}
   - component: {fileID: 8226882149390630094}
-  - component: {fileID: 8503754651498691133}
   m_Layer: 0
   m_Name: Target
   m_TagString: Untagged
@@ -10790,32 +10789,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &8503754651498691133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2882865998482312928}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba507dbcf46b94a9895daa4d46e12805, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  item: {fileID: 2882865998482312860}
-  collisionEventType: 0
-  collisionType: -1
-  triggers:
-  - target: 3
-    specifiedTargetItem: {fileID: 0}
-    key: hit
-    type: 0
-    value:
-      boolValue: 0
-      floatValue: 0
-      integerValue: 0
-      vector2Value: {x: 0, y: 0}
-      vector3Value: {x: 0, y: 0, z: 0}
 --- !u!1 &2999680170296893574
 GameObject:
   m_ObjectHideFlags: 0
