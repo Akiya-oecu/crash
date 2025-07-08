@@ -556,7 +556,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\"\u30B9\u30B3\u30A2999\""
+  m_Text: "\u30B9\u30B3\u30A2999"
 --- !u!222 &43696037
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -584,7 +584,7 @@ MonoBehaviour:
       key: score
     item: {fileID: 0}
   parameterType: 3
-  format: "\"\u30B9\u30B3\u30A2{0}\""
+  format: "\u30B9\u30B3\u30A2{0}/100"
 --- !u!1 &46278204
 GameObject:
   m_ObjectHideFlags: 0
