@@ -399,7 +399,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!82 &21904184
 AudioSource:
   m_ObjectHideFlags: 0
@@ -11415,10 +11415,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4728158}
-  - {fileID: 1986880410}
   - {fileID: 766354256}
   - {fileID: 1183044865}
+  - {fileID: 1986880410}
+  - {fileID: 4728158}
   - {fileID: 737269989}
   m_Father: {fileID: 1075363921}
   m_RootOrder: 1
