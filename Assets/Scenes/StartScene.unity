@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028305, g: 0.2257131, b: 0.30692142, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028295, g: 0.22571303, b: 0.30692127, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -647,7 +647,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 15 (1)
+      value: Maruta 3
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_IsActive
@@ -1571,7 +1571,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: fb89bc64444ec44d6bf7f773a29db22c, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 19 (1)
+      value: Saikoro 3
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: fb89bc64444ec44d6bf7f773a29db22c, type: 3}
       propertyPath: m_IsActive
@@ -1814,7 +1814,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 8adf939ce05af481294008e2d4f5d2d8, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 16
+      value: Kikyuu 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 8adf939ce05af481294008e2d4f5d2d8, type: 3}
       propertyPath: m_IsActive
@@ -1902,7 +1902,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: b672ce5e47ac54cffbb5ccfd20ebf02e, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 17
+      value: Cup 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: b672ce5e47ac54cffbb5ccfd20ebf02e, type: 3}
       propertyPath: m_IsActive
@@ -2103,7 +2103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: fb89bc64444ec44d6bf7f773a29db22c, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 19
+      value: Saikoro 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: fb89bc64444ec44d6bf7f773a29db22c, type: 3}
       propertyPath: m_IsActive
@@ -2440,7 +2440,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: fb89bc64444ec44d6bf7f773a29db22c, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 19
+      value: Saikoro 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: fb89bc64444ec44d6bf7f773a29db22c, type: 3}
       propertyPath: m_IsActive
@@ -3713,7 +3713,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 14
+      value: Gomibako 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_IsActive
@@ -3806,7 +3806,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 15
+      value: Maruta 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_IsActive
@@ -4079,7 +4079,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 14
+      value: Gomibako 4
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_IsActive
@@ -4333,7 +4333,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker (3)
+      value: Ahiru 4
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_IsActive
@@ -4414,7 +4414,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 70be751346b274478a614151ed6952f2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 21
+      value: Plane 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 70be751346b274478a614151ed6952f2, type: 3}
       propertyPath: m_IsActive
@@ -4507,7 +4507,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 1c78ee435775c43eeb3826135a2a966d, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 22
+      value: Star 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 1c78ee435775c43eeb3826135a2a966d, type: 3}
       propertyPath: m_IsActive
@@ -4750,7 +4750,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 1c78ee435775c43eeb3826135a2a966d, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 22 (1)
+      value: Star 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 1c78ee435775c43eeb3826135a2a966d, type: 3}
       propertyPath: m_IsActive
@@ -5455,7 +5455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 1c78ee435775c43eeb3826135a2a966d, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 22 (2)
+      value: Star 3
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 1c78ee435775c43eeb3826135a2a966d, type: 3}
       propertyPath: m_IsActive
@@ -5543,7 +5543,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: b672ce5e47ac54cffbb5ccfd20ebf02e, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 17
+      value: Cup 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: b672ce5e47ac54cffbb5ccfd20ebf02e, type: 3}
       propertyPath: m_IsActive
@@ -6017,7 +6017,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 15
+      value: Maruta 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_IsActive
@@ -6604,7 +6604,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a2aff2aac28e24e8b97d38c5ca6df73b, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 20 (1)
+      value: Taxi 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a2aff2aac28e24e8b97d38c5ca6df73b, type: 3}
       propertyPath: m_IsActive
@@ -6780,7 +6780,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 645f39c5078a444b79d2b121cf4c03c2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 18 (1)
+      value: Bo-ru 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 645f39c5078a444b79d2b121cf4c03c2, type: 3}
       propertyPath: m_IsActive
@@ -8356,7 +8356,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 8adf939ce05af481294008e2d4f5d2d8, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 16
+      value: Kikyuu 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 8adf939ce05af481294008e2d4f5d2d8, type: 3}
       propertyPath: m_IsActive
@@ -9537,7 +9537,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker
+      value: Ahiru 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_IsActive
@@ -9630,7 +9630,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 70be751346b274478a614151ed6952f2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 21 (1)
+      value: Plane 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 70be751346b274478a614151ed6952f2, type: 3}
       propertyPath: m_IsActive
@@ -10152,7 +10152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 14 (2)
+      value: Gomibako 5
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_IsActive
@@ -10294,7 +10294,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 14
+      value: Gomibako 3
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_IsActive
@@ -11092,7 +11092,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 15 (2)
+      value: Maruta 4
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 9277c538a03f747078b8c1db158de4d2, type: 3}
       propertyPath: m_IsActive
@@ -11841,7 +11841,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 14 (1)
+      value: Gomibako 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a4ab49fe815e94eec9f6e5048b4db915, type: 3}
       propertyPath: m_IsActive
@@ -12644,7 +12644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker (1)
+      value: Ahiru 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_IsActive
@@ -12781,7 +12781,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker (2)
+      value: Ahiru 3
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 36e4ba99693bb4d4fbed5c30881184bd, type: 3}
       propertyPath: m_IsActive
@@ -12964,7 +12964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: e3d0bc729c6254798853b5043d24aab4, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 23 (1)
+      value: Torinosu 2
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: e3d0bc729c6254798853b5043d24aab4, type: 3}
       propertyPath: m_IsActive
@@ -13561,7 +13561,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: e3d0bc729c6254798853b5043d24aab4, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 23
+      value: Torinosu 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: e3d0bc729c6254798853b5043d24aab4, type: 3}
       propertyPath: m_IsActive
@@ -14256,7 +14256,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a2aff2aac28e24e8b97d38c5ca6df73b, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 20
+      value: Taxi 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a2aff2aac28e24e8b97d38c5ca6df73b, type: 3}
       propertyPath: m_IsActive
@@ -15105,7 +15105,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: e3d0bc729c6254798853b5043d24aab4, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 23
+      value: Torinosu 3
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: e3d0bc729c6254798853b5043d24aab4, type: 3}
       propertyPath: m_IsActive
@@ -15461,7 +15461,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 645f39c5078a444b79d2b121cf4c03c2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 18
+      value: Bo-ru 1
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 645f39c5078a444b79d2b121cf4c03c2, type: 3}
       propertyPath: m_IsActive
