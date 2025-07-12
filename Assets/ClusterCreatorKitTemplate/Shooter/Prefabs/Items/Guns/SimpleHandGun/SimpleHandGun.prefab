@@ -332,6 +332,9 @@ GameObject:
   - component: {fileID: 4316041622239371442}
   - component: {fileID: 5934623010045308864}
   - component: {fileID: 380502830038048362}
+  - component: {fileID: 3325370369684581758}
+  - component: {fileID: 8025815264602052446}
+  - component: {fileID: 3826426908289276697}
   m_Layer: 14
   m_Name: SimpleHandGun
   m_TagString: Untagged
@@ -523,6 +526,74 @@ MonoBehaviour:
       integerValue: 0
       vector2Value: {x: 0, y: 0}
       vector3Value: {x: 0, y: 0, z: 0}
+--- !u!114 &3325370369684581758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4316041622239371444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a235adcd912f4bbb9b5397586de7af9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grabbableItem: {fileID: 4316041622239371440}
+  triggers:
+  - target: 0
+    specifiedTargetItem: {fileID: 0}
+    key: Release
+    type: 0
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+--- !u!114 &8025815264602052446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4316041622239371444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a9785e42671427a8761e148889f041, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 4316041622239371437}
+  key:
+    target: 0
+    key: Release
+  delayTimeSeconds: 10
+  triggers:
+  - target: 0
+    specifiedTargetItem: {fileID: 0}
+    key: ReleaseON
+    type: 0
+    value:
+      boolValue: 0
+      floatValue: 0
+      integerValue: 0
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+--- !u!114 &3826426908289276697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4316041622239371444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396768c05fa51bd47ab528ca7d76a531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 4316041622239371437}
+  key:
+    target: 0
+    key: ReleaseON
 --- !u!1 &4316041622278042050
 GameObject:
   m_ObjectHideFlags: 0
