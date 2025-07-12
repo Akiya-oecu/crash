@@ -13048,7 +13048,7 @@ MonoBehaviour:
     key: create
   itemTemplate: {fileID: 4316041622239371437, guid: 661798cbdf2a9e043a49f41255497635, type: 3}
   itemTemplateId:
-    value: 0
+    value: 2798701679224460918
   spawnPoint: {fileID: 747819351}
 --- !u!114 &1578286944
 MonoBehaviour:
@@ -13087,7 +13087,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   id:
-    value: 0
+    value: 17748768501232804592
   itemName: 
   size: {x: 0, y: 0, z: 0}
 --- !u!65 &1578286946
