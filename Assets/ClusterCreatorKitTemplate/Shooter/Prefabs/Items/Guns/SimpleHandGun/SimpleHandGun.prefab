@@ -464,7 +464,7 @@ MonoBehaviour:
   key:
     target: 0
     key: Shoot
-  itemTemplate: {fileID: -2917047267138979866, guid: 5914cbeeaccc3e5458f79ae9223fcc73, type: 3}
+  itemTemplate: {fileID: -2917047267138979866, guid: 427bd8ea58c81c243b57695b467bb1b6, type: 3}
   itemTemplateId:
     value: 9460296170548183274
   spawnPoint: {fileID: 4316041621671837690}
