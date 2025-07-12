@@ -180,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 6b50d95a0d197405788faf0ca93e14f2, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 31
+      value: Maruta Miss 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b50d95a0d197405788faf0ca93e14f2, type: 3}
@@ -7504,7 +7504,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 311ae24b59fb8495e979707b5bb2bb2e, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 1
+      value: Ahiru Miss 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 311ae24b59fb8495e979707b5bb2bb2e, type: 3}
@@ -7720,7 +7720,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 59cdd6b408e4d4bd09ee0138925b29b1, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 29
+      value: Saikoro Miss 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 59cdd6b408e4d4bd09ee0138925b29b1, type: 3}
@@ -11189,7 +11189,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: 673e2134bb5ee44b3b83e31ad46b35c4, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 28
+      value: Kikyuu Miss 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 673e2134bb5ee44b3b83e31ad46b35c4, type: 3}
@@ -15027,7 +15027,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8707769709903154735, guid: a307ac68c7db24c2fa26a9505afd97a6, type: 3}
       propertyPath: m_Name
-      value: TargetWithMarker 30
+      value: Bo-ru Miss 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a307ac68c7db24c2fa26a9505afd97a6, type: 3}
